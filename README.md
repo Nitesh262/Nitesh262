@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Nitesh262/Nitesh262/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Nitesh Agrahari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
